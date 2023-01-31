@@ -15,7 +15,7 @@
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marius eduard toader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marius eduard toader" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marius-eduard-toader-2a6618220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marius eduard toader" height="30" width="40" /></a>
 <a href="https://discord.gg/EddieFNTK#1292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EddieFNTK#1292" height="30" width="40" /></a>
 </p>
 
