@@ -1,7 +1,7 @@
 <h1 align="center">Hola, me llamo Marius Eduard Toader</h1>
 <h3 align="center">Soy un desarrollador de aplicaciones multiplatadorma en España</h3>
 
-- 🌱 Actualmente estoy aprendiendo: **Python**
+- 🌱 Actualmente estoy aprendiendo: **Python, WordPress**
 
 - 👯 Espero colaborar en: **proyectos de aplicaciones multiplataforma o páginas web**
 
